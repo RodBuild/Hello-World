@@ -2,7 +2,7 @@
 This is basic Hello World program, where I demostrate the use of Visual Studio Code, Github and Python integrated together. 
 
 
-[Software Demo Video, NOT WORKING YET](http://youtube.link.goes.here)
+[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
